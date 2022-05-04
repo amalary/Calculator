@@ -7,3 +7,7 @@
 This is a calculator I designed by using largely HTML & CSS and adding functionality using Javascript
 
 
+## Contributors
+
+- Anthony Malary 
+

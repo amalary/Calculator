@@ -38,4 +38,17 @@ input{
     color: rgba(70,70,74); 
     font-size: 40px;
     text-align: end;
+    margin: auto; 
+    margin-top: 15px;
+    margin-bottom: 25px;
+    padding:0px; 
+}
+
+button{
+    height: 48px; 
+    width: 48px; 
+    background-color: #ecf0f3;
+    box-shadow: -5px -5px 12px #ffff,
+                    5px 5px 12px rgba(0,0,0,.16)
+
 }

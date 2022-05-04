@@ -19,5 +19,18 @@
     background-color: #ecf0f3; 
     padding: 15px; 
     border-radius: 30px;
-    box-shadow: insert 5px 5px 15px #ffff;
+    box-shadow: inset 5px 5px 15px #ffff,
+                    5px 5px 12px rgba(0,0,0);
+
+    display: grid;
+    grid-template-columns: repeat(4,63px);
+}
+
+input{
+    grid-column: span 4;
+
+    height: 70px; 
+    width: 252px;
+    background-color: #ecf0f3;
+    box-shadow: inset 5px 5px 12px rgba(0,0,0);
 }

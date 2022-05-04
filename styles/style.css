@@ -32,5 +32,10 @@ input{
     height: 70px; 
     width: 252px;
     background-color: #ecf0f3;
-    box-shadow: inset 5px 5px 12px rgba(0,0,0);
+    box-shadow: inset 5px 5px 12px rgba(0,0,0,.16);
+    border: none;
+    border-radius: 25px;
+    color: rgba(70,70,74); 
+    font-size: 40px;
+    text-align: end;
 }
